@@ -1,11 +1,3 @@
----
-license: apache-2.0
-title: English Music Recommender
-sdk: streamlit
-emoji: 🐨
-colorFrom: green
-colorTo: green
----
 # English Music Recommender
 ## About
 This project aims to create a music recommendation application for non-native English speakers who intend to learn English through the lyrics of English songs. Music is one of the most entertaining and practical approaches to learning a language. People can learn new words and expressions by listening to and singing the lyrics. However, different artists vary in their songwriting choices of words and expressions, which may lead to a difference in the difficulties of comprehending the lyrics for English learners. OpenAI is one of the most useful tools when it comes to recommending people. Therefore, we are creating an application to combine OpenAI with our intention to recommend suitable songs for different levels of learners. On top of that, OpenAI will serve as an English teacher to answer users’ questions regarding the use of English words in the lyrics. 
